@@ -1,0 +1,53 @@
+[2025-09-11 01:21:57.266936] Logger initialized.
+[2025-09-11 01:21:57.266936] Log file: TT_logs\tt_order_2025-09-11_01-21-57.log
+
+[2025-09-11 01:22:58.248074] Subscribed to: EUR/USD
+[2025-09-11 01:22:58.253816] Subscribed to: EUR/GBP
+[2025-09-11 01:22:58.253816] Subscribed to: EUR/CHF
+[2025-09-11 01:22:58.257374] Subscribed to: EUR/JPY
+[2025-09-11 01:22:58.257374] Subscribed to: GBP/USD
+[2025-09-11 01:22:58.257374] Subscribed to: GBP/CHF
+[2025-09-11 01:22:58.257374] Subscribed to: USD/CHF
+[2025-09-11 01:23:23.086698] Order add requested with price 1.352925
+[2025-09-11 01:23:23.823957] Order Added: 1.352925
+
+[2025-09-11 01:23:26.124167] LIVE_FEED: 1.352935 NO_LAG
+[2025-09-11 01:23:26.195673] 'Pricing_Feed' update requested from '1.352925' to '1.352935'
+[2025-09-11 01:23:26.683250] 'Pricing_Feed' changed from '1.352925' to '1.352935'
+
+[2025-09-11 01:23:30.124374] LIVE_FEED: 1.352945 NO_LAG
+[2025-09-11 01:23:30.139299] 'Pricing_Feed' update requested from '1.352935' to '1.352945'
+[2025-09-11 01:23:30.640188] LIVE_FEED: 1.352935 LAG
+[2025-09-11 01:23:30.640188] 'Pricing_Feed' changed from '1.352935' to '1.352945'
+
+[2025-09-11 01:23:30.655862] 'Pricing_Feed' update requested from '1.352945' to '1.352935'
+[2025-09-11 01:23:31.151491] 'Pricing_Feed' changed from '1.352945' to '1.352935'
+
+[2025-09-11 01:23:31.431699] LIVE_FEED: 1.352945 NO_LAG
+[2025-09-11 01:23:31.443521] 'Pricing_Feed' update requested from '1.352935' to '1.352945'
+[2025-09-11 01:23:31.948340] 'Pricing_Feed' changed from '1.352935' to '1.352945'
+
+[2025-09-11 01:23:38.462580] LIVE_FEED: 1.352955 NO_LAG
+[2025-09-11 01:23:38.468823] 'Pricing_Feed' update requested from '1.352945' to '1.352955'
+[2025-09-11 01:23:38.949259] 'Pricing_Feed' changed from '1.352945' to '1.352955'
+
+[2025-09-11 01:23:52.545181] LIVE_FEED: 1.352965 NO_LAG
+[2025-09-11 01:23:52.565051] 'Pricing_Feed' update requested from '1.352955' to '1.352965'
+[2025-09-11 01:23:53.052587] 'Pricing_Feed' changed from '1.352955' to '1.352965'
+
+[2025-09-11 01:23:53.528360] LIVE_FEED: 1.352975 NO_LAG
+[2025-09-11 01:23:53.538414] 'Pricing_Feed' update requested from '1.352965' to '1.352975'
+[2025-09-11 01:23:54.029893] 'Pricing_Feed' changed from '1.352965' to '1.352975'
+
+[2025-09-11 01:24:01.801048] LIVE_FEED: 1.352965 NO_LAG
+[2025-09-11 01:24:01.819196] 'Pricing_Feed' update requested from '1.352975' to '1.352965'
+[2025-09-11 01:24:02.318970] 'Pricing_Feed' changed from '1.352975' to '1.352965'
+
+[2025-09-11 01:24:25.391448] LIVE_FEED: 1.352975 NO_LAG
+[2025-09-11 01:24:25.402948] 'Pricing_Feed' update requested from '1.352965' to '1.352975'
+[2025-09-11 01:24:25.406882] LIVE_FEED: 1.352985 LAG
+[2025-09-11 01:24:25.887091] 'Pricing_Feed' changed from '1.352965' to '1.352975'
+
+[2025-09-11 01:24:25.902053] 'Pricing_Feed' update requested from '1.352975' to '1.352985'
+[2025-09-11 01:24:26.538786] 'Pricing_Feed' changed from '1.352975' to '1.352985'
+

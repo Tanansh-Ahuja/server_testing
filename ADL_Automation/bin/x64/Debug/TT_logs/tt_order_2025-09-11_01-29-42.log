@@ -1,0 +1,20 @@
+[2025-09-11 01:29:42.518261] Logger initialized.
+[2025-09-11 01:29:42.526741] Log file: TT_logs\tt_order_2025-09-11_01-29-42.log
+
+[2025-09-11 01:30:36.493253] Subscribed to : EUR/USD
+[2025-09-11 01:30:36.501275] Subscribed to : EUR/GBP
+[2025-09-11 01:30:36.501275] Subscribed to : EUR/CHF
+[2025-09-11 01:30:36.504243] Subscribed to : EUR/JPY
+[2025-09-11 01:30:36.504243] Subscribed to : GBP/USD
+[2025-09-11 01:30:36.504243] Subscribed to : GBP/CHF
+[2025-09-11 01:30:36.504243] Subscribed to : USD/CHF
+[2025-09-11 01:31:17.879394] Order add requested with price 1.353095
+[2025-09-11 01:31:18.451628] Order Added: 1.353095
+
+[2025-09-11 01:31:30.394617] LIVE_FEED: 1.353105 NO_LAG
+[2025-09-11 01:31:30.443589] 'Pricing_Feed' update requested from '1.353095' to '1.353105'
+[2025-09-11 01:31:30.832394] 'Pricing_Feed' changed from '1.353095' to '1.353105'
+
+[2025-09-11 01:32:27.671183] Order add requested with price 1.081165
+[2025-09-11 01:32:28.232450] Order Added: 1.081165
+
